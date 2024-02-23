@@ -1,5 +1,5 @@
 # Concevez un site web avec PHP & MySQL
 
-Ce dépôt git contient toutes les étapes du projet fil rouge du cours "Concevez un site web avec PHP & MySQL" créé par Mathieu Nebra et mis à jour par Mickaël Andrieu et Stéphane Bourse.
+Ce dépôt git contient toutes les étapes de condeption de site web avec PHP & MySQL. Ces fichiers sont ceux sur lesquels je me suis exercé.  
 
-Happy learning !
+
